@@ -1,4 +1,4 @@
-# ISSA-Interactive_Stress_State_Analysis
+# ISSA: Interactive Stress State Analysis
 INTRODUCTION: ISSA aims to enhance the teaching effectiveness of stress state analysis, including 2D Mohr's Circle demonstrations, stress state analysis, and more in the solid and geotechnical fields. A 3D version will be released in the future.
 DESIGNER: The software was designed by Hongkai Tao, Qi Zhao, Jiayan Wang, Chengyang Zhu, and Jingran Li, with Copyright No.: 2024SR0930845.
 MAIN SOURCE FILE: ISSAAnalysis.mlapp in Main Source File.zip can be accessed via MATLAB and then the code could be read. Two additional figures are available for download to maintain completeness, although downloading them is optional and does not affect the core functionality of the software.
